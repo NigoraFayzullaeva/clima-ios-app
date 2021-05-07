@@ -4,8 +4,8 @@
 <ul>
   <li>How to create a dark-mode enabled app.</li>
   <li>How to use vector images as image assets.</li>
-  <li>Learn to use the UITextField to get user input.</li>
-  <li>Learn about the delegate pattern.</li>
+  <li>Learned to use the UITextField to get user input.</li>
+  <li>Learned about the delegate pattern.</li>
   <li>Swift protocols and extensions.</li>
   <li>Swift guard keyword.</li>
   <li>Swift computed properties.</li>
