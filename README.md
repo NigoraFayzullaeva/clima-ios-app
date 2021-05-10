@@ -17,6 +17,6 @@
 
 </ul>
 <h2>☑️ Final look of Clima app🌤</h2>
-<img src="clima.gif" alt="clima" width="20%" height="50%">
+<img src="clima.gif" alt="Clima" width="20%" height="50%">
 
 
