@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 <h2>☑️ What is this app about?</h2>
 <p>I have made a beautiful, dark-mode enabled weather app. You are able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.</p>
 <h2>☑️ What have I learned?</h2>
